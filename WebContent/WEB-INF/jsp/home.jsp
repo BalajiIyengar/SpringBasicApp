@@ -10,5 +10,9 @@
 
 
 		HomePage
+		
+		<br>
+		
+		<a href="login.htm">Click to Login</a>
 </body>
 </html>
