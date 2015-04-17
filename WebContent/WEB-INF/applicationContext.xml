@@ -43,6 +43,6 @@ http://www.springframework.org/schema/jee/spring-jee-3.1.xsd">
 	</bean>
 
 	
-	<!-- <bean name="starter" init-method="loadProperties" class="caerusapp.util.CaerusPathConstants" /> -->
+	<!-- <bean name="starter" init-method="loadProperties" class="com.springbasics.util.CaerusPathConstants" /> -->
 	
 </beans>
