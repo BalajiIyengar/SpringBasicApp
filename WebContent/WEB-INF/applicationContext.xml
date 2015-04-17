@@ -15,14 +15,7 @@ http://www.springframework.org/schema/jee/spring-jee-3.1.xsd">
 	
 	<!-- the parent application context definition for the spring basics application -->
 	
-	
-	<!-- <bean id="employerQueryBuildManager" class="caerusapp.service.employer.CaerusEmployerQueryBuildManager">
-		<property name="employerQueryBuildManagerDao" ref="employerQueryBuildManagerDao" />
-	</bean>
 
-	<bean id="employerQueryBuildManagerDao" class="caerusapp.dao.employer.JdbcEmployerQueryBuildManager">
-		<property name="dataSource" ref="dataSource" />
-	</bean> -->
 	
 
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
